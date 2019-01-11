@@ -1,0 +1,2 @@
+spring.application.name=spring-provider-product
+server.port=2326
